@@ -4,5 +4,5 @@ The layout is simple yet functional, aiming to showcase a clean design and smoot
 </br>
 <a href="https://fkrein1.github.io/business-landing-page/">View the Project on GitHub Pages</a>
 
-</br> <img src="/assets/Screenshot 2025-08-08 at 16.45.27.png" alt="Screenshot of the business landing page" />
+</br> <img src="/assets/Screenshot 2025-08-08 at 17.08.13.png" alt="Screenshot of the business landing page" />
 
